@@ -1,0 +1,5 @@
+# Ignore build generated files
+build
+openshift
+.DS_Store
+.lock-waf_darwin_build

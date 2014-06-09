@@ -1,0 +1,1 @@
+void log_app_message_result(AppMessageResult app_message_error);

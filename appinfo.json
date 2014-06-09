@@ -1,0 +1,28 @@
+{
+  "uuid": "5210b3dd-109c-47ad-8018-41b345f85160",
+  "shortName": "Hits",
+  "longName": "Hits",
+  "companyName": "Fresh Media",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "env":   0,
+    "count": 1,
+    "title": 2,
+    "website": 3
+  },
+  "capabilities": ["configurable"],
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_hits.png"
+      }
+    ]
+  }
+}
